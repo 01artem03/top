@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+.nav li{
+    margin-left: 94px;
+}
+.nav li a{
+    text-decoration: none;
+    color: red;
+}
+.header{
+    background-image: url(/img/bg.jpg);
+    background-size: cover;
+    
+}
+.ul-zabava{
+    display: flex;
+    flex-direction: row;
+}
+.li-zabava{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    text-align: center;
+    max-width: 500px;
+}
+p img{
+    float: left;
+}
+.conteiner2{
+    padding: 5px 0px 2px 0px;
+}    
+.zal-restoran{
+    width: 1100px;
+    height: 440px;
+    float: left;
+}
+.kyrka{
+    width: 470px;
+    height: 440px;
+    margin: 0px 0px 0px 8px;
+}
+.kyrka2{
+    width: 470px;
+    height: 440px;
+    margin: 0px 6px 0px 0px;
+}
+.zal2{
+    width: 1100px;
+    height: 440px;
+}
+.chrift{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Tinos', serif;
+    font-size: 23px;
+    font-weight: 50px;
+
+}
+.chrift2{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Tinos', serif;
+    font-size: 15px;
+    font-weight: 50px;
+}
+.conteiner3{
+    background-color: green;
+
+}
+.text-niz{
+    color: orange;
+    padding: 5px;
+    margin: 0px 0px 0px 40px;
+    
+}
+.riska{
+    border: 2px solid beige;
+    width: 1500px;
+    height: 0px;
+}
+.sotseti2{
+   width: 50px;
+   height:30px;
+   margin: 10px;
+}
+.zabava-gg{
+    text-align: right;
+    color: beige;
+    padding: 10px; 
+}
+.kyxna2{
+    width: 900px;
+    height: 600px;
+}
+.text-kyxna{
+    color: black;
+    text-align: right;
+    position: absolute;
+    top: 3%;
+    left: 900px;
+    max-width: 600px;
+}
+.kyxna{
+    position: relative;
+}
+.logo-zabava{
+    width: 400px;
+    height: 220px;
+    padding: 0px 0px 0px 600px;
+}
